@@ -2,11 +2,13 @@
   {
     "Id": 1,
     "Produto": "Notebook",
-    "Preco": 3500.00
+    "Preco": 3500.00,
+    "DataVenda": "2025-09-03T17:14:39.5967941-03:00"
   },
   {
     "Id": 2,
     "Produto": "Smartphone",
-    "Preco": 2500.00
+    "Preco": 2500.00,
+    "DataVenda": "2025-09-03T17:14:39.5967941-03:00"
   }
 ]
