@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 1,
+    "Titulo": "Viagem",
+    "Preco": 50.00,
+    "DataLancamento": "2025-09-03T17:14:39.5967941-03:00"
+  },
+  {
+    "Id": 2,
+    "Titulo": "Zero",
+    "Preco": 15.00,
+    "DataLancamento": "2025-09-03T17:14:39.5967941-03:00"
+  }
+]
