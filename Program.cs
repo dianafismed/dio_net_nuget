@@ -14,7 +14,7 @@ DateTime dataAtual = DateTime.Now;
 
 // Desserializando
 string conteudoArquivo = File.ReadAllText("Arquivos/livro.json");
-List<Livro> listaLivros = JsonConvert.DeserializeObject<List<Livro>>(conteudoArquivo);
+List<Livro>? listaLivros = JsonConvert.DeserializeObject<List<Livro>>(conteudoArquivo);
 foreach (var livro in listaLivros)
 {
   Console.WriteLine($"ID: {livro.Id}");
